@@ -10,7 +10,7 @@ it library support sandbox mode only. if use in production plz check
  * Prodution API host and endpoint
  * Add more security, don't hardcode API Key and API Secret into code
 
-## QR Code Generation
+## QR Code Generater
 
 support QR 30 Only
 
