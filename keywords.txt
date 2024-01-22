@@ -1,0 +1,43 @@
+######################################
+# Syntax Coloring Map ESP Line Notify
+######################################
+
+#######################################
+# Classes and Structured Type (KEYWORD1)
+#######################################
+
+Display  KEYWORD1
+Touch  KEYWORD1
+
+###############################################
+# Methods and Functions (KEYWORD2)
+###############################################
+
+begin	KEYWORD2
+useLVGL	KEYWORD2
+loop	KEYWORD2
+
+drawBitmap	KEYWORD2
+color565	KEYWORD2
+color24to16	KEYWORD2
+drawPixel	KEYWORD2
+fillRect	KEYWORD2
+off	KEYWORD2
+on	KEYWORD2
+fillScreen	KEYWORD2
+drawLine	KEYWORD2
+drawRect	KEYWORD2
+drawRectAngle	KEYWORD2
+drawTriangle	KEYWORD2
+drawCircle	KEYWORD2
+fillCircle	KEYWORD2
+drawRoundRect	KEYWORD2
+drawArrow	KEYWORD2
+fillArrow	KEYWORD2
+
+read	KEYWORD2
+
+
+#######################################
+# Struct (KEYWORD3)
+#######################################

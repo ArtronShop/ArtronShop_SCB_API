@@ -1,0 +1,18 @@
+{
+    "name": "ArtronShop_SCB_API",
+    "version": "1.0.0",
+    "keywords": "scb, thai qr code, esp32, esp8266, arduino",
+    "description": "SCB API SDK for ESP32, Support Thai QR Code Tag 30 and Payment Confirm",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ArtronShop/ArtronShop_SCB_API.git"
+    },
+    "authors": [
+        {
+            "name": "Sonthaya Nongnuch",
+            "email": "sonthaya.nt@hotmail.com"
+        }
+    ],
+    "frameworks": "arduino",
+    "platforms": "espressif32"
+}
